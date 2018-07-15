@@ -1,0 +1,330 @@
+[
+    {
+        "customer_id": "96f55c7d8f42",
+        "cust_event_time": "2018-01-01 00:00:39.123",
+        "last_name": "A",
+        "adr_city": "Middletown",
+        "adr_state": "AK",
+        "site_visits": [
+            {
+                "page_id": "abcdef",
+                "event_time": "2018-01-01 00:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcdee",
+                "event_time": "2017-12-27 23:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcdeg",
+                "event_time": "2018-01-02 01:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcdeh",
+                "event_time": "2018-01-03 02:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcdei",
+                "event_time": "2018-01-07 23:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcdej",
+                "event_time": "2018-01-08 00:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcdek",
+                "event_time": "2018-01-13 01:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcdel",
+                "event_time": "2018-01-21 02:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcdem",
+                "event_time": "2018-01-21 23:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "abcden",
+                "event_time": "2018-01-25 02:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            }
+        ],
+        "orders": [
+            {
+                "order_id": "abcdef",
+                "event_time": "2017-12-28 23:10:39.123",
+                "total_amount": 10000.5
+            },
+            {
+                "order_id": "abcdeg",
+                "event_time": "2018-01-05 23:10:39.123",
+                "total_amount": 150.75
+            },
+            {
+                "order_id": "abcdeh",
+                "event_time": "2018-01-20 23:10:39.123",
+                "total_amount": 3939.39
+            }
+        ]
+    },
+    {
+        "customer_id": "96f55c7d8f43",
+        "cust_event_time": "2018-01-02 00:00:39.123",
+        "last_name": "B",
+        "adr_city": "Fremont",
+        "adr_state": "CA",
+        "site_visits": [
+            {
+                "page_id": "bbcdee",
+                "event_time": "2017-12-28 23:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "bbcdef",
+                "event_time": "2018-01-01 00:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "bbcdej",
+                "event_time": "2018-01-08 00:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "bbcdek",
+                "event_time": "2018-01-13 01:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "bbcdel",
+                "event_time": "2018-01-21 02:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            }
+        ],
+        "orders": [
+            {
+                "order_id": "bbcdef",
+                "event_time": "2017-12-28 23:58:39.123",
+                "total_amount": 10000.5
+            },
+            {
+                "order_id": "bbcdeg",
+                "event_time": "2018-01-01 23:10:39.123",
+                "total_amount": 150.75
+            },
+            {
+                "order_id": "bbcdeh",
+                "event_time": "2018-01-08 23:10:39.123",
+                "total_amount": 3939.39
+            },
+            {
+                "order_id": "bbcdei",
+                "event_time": "2018-01-13 23:10:39.123",
+                "total_amount": 43939.39
+            }
+        ]
+    },
+    {
+        "customer_id": "96f55c7d8f44",
+        "cust_event_time": "2018-01-03 00:00:39.123",
+        "last_name": "C",
+        "adr_city": "Oakland",
+        "adr_state": "CA",
+        "site_visits": [
+            {
+                "page_id": "cbcdee",
+                "event_time": "2017-12-28 23:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "cbcdef",
+                "event_time": "2018-01-01 00:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "cbcdel",
+                "event_time": "2018-01-21 02:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            }
+        ],
+        "orders": [
+            {
+                "order_id": "cbcdef",
+                "event_time": "2017-12-28 23:58:39.123",
+                "total_amount": 10000.5
+            },
+            {
+                "order_id": "cbcdeg",
+                "event_time": "2018-01-01 23:10:39.123",
+                "total_amount": 150.75
+            }
+        ]
+    },
+    {
+        "customer_id": "96f55c7d8f45",
+        "cust_event_time": "2018-01-04 00:00:39.123",
+        "last_name": "D",
+        "adr_city": "Sanjose",
+        "adr_state": "CA",
+        "site_visits": [
+            {
+                "page_id": "dbcdef",
+                "event_time": "2018-01-01 00:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            },
+            {
+                "page_id": "dbcdel",
+                "event_time": "2018-01-21 02:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            }
+        ],
+        "orders": [
+            {
+                "order_id": "dbcdef",
+                "event_time": "2018-01-21 23:58:39.123",
+                "total_amount": 10000.5
+            }
+        ]
+    },
+    {
+        "customer_id": "96f55c7d8f46",
+        "cust_event_time": "2018-01-05 00:00:39.123",
+        "last_name": "E",
+        "adr_city": "Sunnvyvale",
+        "adr_state": "CA",
+        "site_visits": [
+            {
+                "page_id": "ebcdef",
+                "event_time": "2018-01-01 00:00:39.123",
+                "tags": [
+                    {
+                        "name1": "value1",
+                        "name2": "value2"
+                    }
+                ]
+            }
+        ],
+        "image_uploads": [
+            {
+                "image_id": "abcdef",
+                "event_time": "2018-01-01 00:00:39.123",
+                "camera_make": "Canon",
+                "camera_model": "EOS 80D"
+            }
+        ]
+    },
+    {
+        "customer_id": "96f55c7d8f47",
+        "cust_event_time": "2018-01-06 00:00:39.123",
+        "last_name": "F",
+        "adr_city": "Santaclara",
+        "adr_state": "CA"
+    }
+]

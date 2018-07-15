@@ -1,0 +1,23 @@
+[
+    {
+        "customer_id": "96f55c7d8f43",
+        "last_name": "B",
+        "adr_city": "Fremont",
+        "adr_state": "CA",
+        "LTV": 6035123.12
+    },
+    {
+        "customer_id": "96f55c7d8f42",
+        "last_name": "A",
+        "adr_city": "Middletown",
+        "adr_state": "AK",
+        "LTV": 1465426.56
+    },
+    {
+        "customer_id": "96f55c7d8f44",
+        "last_name": "C",
+        "adr_city": "Oakland",
+        "adr_state": "CA",
+        "LTV": 1055730.0
+    }
+]

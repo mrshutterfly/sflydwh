@@ -1,0 +1,25 @@
+DROP TABLE
+DROP TABLE
+DROP TABLE
+DROP TABLE
+CREATE TABLE
+INSERT 0 6
+CREATE TABLE
+ALTER TABLE
+INSERT 0 21
+CREATE TABLE
+ALTER TABLE
+INSERT 0 1
+CREATE TABLE
+ALTER TABLE
+INSERT 0 10
+ customer_id  | last_name |  adr_city  | adr_state |  cust_ltv  
+--------------+-----------+------------+-----------+------------
+ 96f55c7d8f43 | B         | Fremont    | CA        | 6035123.12
+ 96f55c7d8f42 | A         | Middletown | AK        | 1465426.56
+ 96f55c7d8f44 | C         | Oakland    | CA        |    1055730
+ 96f55c7d8f45 | D         | Sanjose    | CA        |    1040052
+ 96f55c7d8f47 | F         | Santaclara | CA        |          0
+ 96f55c7d8f46 | E         | Sunnvyvale | CA        |          0
+(6 rows)
+
